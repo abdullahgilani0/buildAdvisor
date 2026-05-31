@@ -814,8 +814,8 @@ def analyze():
 
 
 if __name__ == "__main__":
-    print("\n  ╔══════════════════════════════════════╗")
-    print("  ║   BuildAdvisor – Full Suite v2.0    ║")
-    print("  ║   http://localhost:5000             ║")
-    print("  ╚══════════════════════════════════════╝\n")
+    print("\n  +--------------------------------------+")
+    print("  |   BuildAdvisor - Full Suite v2.0     |")
+    print("  |   http://localhost:5000              |")
+    print("  +--------------------------------------+\n")
     app.run(debug=False, port=5000)
