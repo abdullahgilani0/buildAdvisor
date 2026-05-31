@@ -1,0 +1,22 @@
+[
+  "total_area_sqft",
+  "number_of_floors",
+  "number_of_rooms",
+  "number_of_bathrooms",
+  "location_factor",
+  "avg_temp_summer",
+  "avg_temp_winter",
+  "construction_type_commercial",
+  "construction_type_residential",
+  "quality_level_basic",
+  "quality_level_premium",
+  "quality_level_standard",
+  "structure_type_brick",
+  "structure_type_concrete",
+  "structure_type_steel",
+  "soil_type_clay",
+  "soil_type_gravel",
+  "soil_type_rock",
+  "soil_type_sand",
+  "soil_type_silt"
+]
